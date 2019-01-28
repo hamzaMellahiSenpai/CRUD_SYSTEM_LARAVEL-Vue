@@ -146,8 +146,6 @@ INSERT INTO `articles` (`id`, `title`, `body`, `created_at`, `updated_at`) VALUE
 (105, 'test', 'Ab explicabo reiciendis id debitis recusandae debitis. Perspiciatis quia excepturi labore occaecati quos accusamus. Autem aut impedit molestiae omnis commodi dolorem.', '2019-01-27 23:07:23', '2019-01-27 23:07:23'),
 (106, 'TEST', 'Ab explicabo reiciendis id debitis recusandae debitis. Perspiciatis quia excepturi labore occaecati quos accusamus. Autem aut impedit molestiae omnis commodi dolorem.', '2019-01-27 23:07:33', '2019-01-27 23:07:33'),
 (107, 'TEST', 'Ab explicabo reiciendis id debitis recusandae debitis. Perspiciatis quia excepturi labore occaecati quos accusamus. Autem aut impedit molestiae omnis commodi dolorem.', '2019-01-27 23:16:35', '2019-01-27 23:16:35'),
-(108, 'FUUCK', 'Ab explicabo reiciendis id debitis recusandae debitis. Perspiciatis quia excepturi labore occaecati quos accusamus. Autem aut impedit molestiae omnis commodi dolorem.', '2019-01-27 23:22:26', '2019-01-27 23:22:26'),
-(109, 'FUCK', 'Ab explicabo reiciendis id debitis recusandae debitis. Perspiciatis quia excepturi labore occaecati quos accusamus. Autem aut impedit molestiae omnis commodi dolorem.', '2019-01-27 23:22:34', '2019-01-27 23:22:34');
 
 -- --------------------------------------------------------
 
